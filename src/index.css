@@ -53,7 +53,7 @@
   padding-inline: 1.5rem;
 }
 
-@utility eyebrow {
+.eyebrow {
   display: inline-flex;
   align-items: center;
   gap: 0.55rem;
@@ -63,7 +63,7 @@
   text-transform: uppercase;
   color: var(--color-ember);
 }
-@utility eyebrow::before {
+.eyebrow::before {
   content: "";
   width: 1.75rem;
   height: 1px;

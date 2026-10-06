@@ -1,4 +1,4 @@
-import { Boxes, GitBranch, Palette, Reflection, ScanSearch, Shuffle } from 'lucide-react'
+import { Boxes, GitBranch, Palette, Sparkles, ScanSearch, Shuffle } from 'lucide-react'
 import { Reveal } from './Motion.jsx'
 
 const mainFeatures = [
@@ -24,7 +24,7 @@ const mainFeatures = [
     text: 'Connect a Chrome session for auth’d pages. Forge clones inside your own product without touching user data.',
   },
   {
-    icon: Reflection,
+    icon: Sparkles,
     title: 'Responsive-ready output',
     text: 'Breakpoints and fluid rules are carried over, so the component behaves like it did on the live site.',
   },

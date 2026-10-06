@@ -1,4 +1,4 @@
-import { MousePointerClick, ScanSearch, PackageCheck, ArrowRight, MessageSquare } from 'lucide-react'
+import { MousePointerClick, ScanSearch, PackageCheck, ArrowRight } from 'lucide-react'
 import { Reveal } from './Motion.jsx'
 
 const steps = [
